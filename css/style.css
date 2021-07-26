@@ -1,0 +1,167 @@
+.header-wrapper{
+    width: 1440px;
+    height: 50px;
+    margin-right: 100px;
+    background-color: lightgreen;
+    position: fixed;
+    z-index: 10111;
+}
+.a1{
+    margin-right: 100px;
+}
+.d-inline-block{
+    display: inline-block;
+}
+.navpx{
+    margin-left: 50px;
+}
+.sec1{
+    width: 1160px;
+    height: 410px;
+
+}
+.section{
+    padding-top: 80px;
+}
+.sec1-1{
+    width: 1025px;
+    height: 20px;
+}
+.div1{
+    position: relative;
+  width: 360px;
+  height: 180px;
+  margin-top: 40px;
+
+    
+}
+.div2{
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    right: 40px;
+    width: 280px;
+    height: 16px;
+    color: white;
+    
+}
+.div{
+    width: 360;
+    height: 350;
+
+}
+.section{
+    margin-left: 140px;
+}
+.div3{
+    width: 280px;
+    height: 38px;
+    margin-top: 66px;
+    margin-right: 44px;
+    margin-left: 44px;
+    margin-bottom: 66px;
+}
+.time{
+    width: 69px;
+    height: 16px;
+    margin-top: 10px;
+}
+.div4{
+    width: 360px;
+    height: 350px;
+
+}
+.div5{
+    position: relative;
+    width: 360px;
+    height: 180px;
+
+}
+.div6{
+    position: absolute;
+    width: 280px;
+    height: 16px;
+    top: 28px;
+    left: 40px;
+    right: 40px;
+    color: white;
+}
+.div7{
+    width: 280px;
+    height: 38px;
+    margin-top: 66px;
+    margin-left: 40px;
+}
+.div8{
+    width: 66px;
+    height: 16px;
+    margin-top: 10px;
+
+}.h2{
+    font-weight: 800;
+}
+.div9{
+    width: 770px;
+    height: 20px;
+    margin-left: 140px;
+
+}
+.div10{
+    width: 760px;
+    height: 430px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.sec2{
+    width: 820px;
+    height: 900px;
+    
+
+}
+.div11{
+    width: 360px;
+    height: 896px;
+    margin-left: 50px;
+
+}
+.div12{
+    width: 360px;
+    height: 210px;
+   
+}
+.ind{
+    margin-top: 136px;
+}
+.footer{
+    width: 1440px;
+    height: 200px;
+    background-color: #A6ADB4;
+}
+.footdiv{
+    width: 487px;
+    height: 84px;
+    margin-left: 142px;
+    padding-top: 56px;
+    padding-bottom:56px;
+    padding-top: 40px
+}
+.space{
+    margin-left: 20px;
+}
+.div13{
+    width: 243px;
+    height: 9px;
+    padding-top: 40px
+
+}
+.div14{
+    width: 160px;
+    height: 16px;
+    padding-top: 40px
+}
+.b4{
+    margin-left: 20px;
+}
+.a2{
+    padding-top: 2px;
+}
